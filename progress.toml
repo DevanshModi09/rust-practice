@@ -1,6 +1,7 @@
 solved = [
     "install-01",
     "install-02",
+    "install-03-trick",
 ]
 vim_mode = false
 github_asked = true
