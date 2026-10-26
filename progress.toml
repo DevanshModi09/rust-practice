@@ -1,3 +1,6 @@
-solved = ["install-01"]
+solved = [
+    "install-01",
+    "install-02",
+]
 vim_mode = false
 github_asked = true
